@@ -1,6 +1,6 @@
 # FotoSystem
 
-Mã nguồn Hệ thống Quản lý Studio trực tuyến - Chăm sóc khách hàng.
+## Mã nguồn Hệ thống Quản lý Studio trực tuyến - Chăm sóc khách hàng.
 
 Ý tưởng:  HNV Media và Anh Khoa
 
