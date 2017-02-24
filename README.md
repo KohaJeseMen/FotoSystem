@@ -13,7 +13,7 @@ Chủ nhiệm đề tài: **Nguyễn Hoàng Anh Khoa**
 * Quản lý dịch vụ, thông tin khách hàng
 * Quản lý và xử lý đơn hàng
 * Quản lý lưu trữ tài nguyên
-* Quản bá hình ảnh và các dịch vụ liên kết ngoài
+* Quảng bá hình ảnh và các dịch vụ liên kết ngoài
 
 ### Các tài liệu tham khảo:
 1. *HTML*
