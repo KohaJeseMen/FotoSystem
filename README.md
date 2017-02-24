@@ -1,7 +1,7 @@
 # FotoSystem
 
 ## Mã nguồn Hệ thống Quản lý Studio trực tuyến - Chăm sóc khách hàng.
-Ý tưởng:  **HNV Media** và **Software Team Anh Khoa**
+Ý tưởng:  **HNV Media** và **Software Developer Team Anh Khoa**
 
 Chủ nhiệm đề tài: **Nguyễn Hoàng Anh Khoa**
 
