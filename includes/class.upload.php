@@ -3,7 +3,7 @@
  * @project   FotoSystem
  * @name      PHP Mysqli Database Class
  * @category  Database Access
- * @package   MySQLiDb
+ * @package   Controller
  * @author    Nguyễn Hoàng Anh Khoa <kohajesemen@gmail.com>
  * @copyright Copyright (c) 2017
  * @license   http://opensource.org/licenses/gpl-3.0.html GNU Public License
